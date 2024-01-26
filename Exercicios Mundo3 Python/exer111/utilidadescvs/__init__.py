@@ -1,0 +1,1 @@
+from exer111.utilidadescvs import moeda, dados
